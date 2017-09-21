@@ -1,4 +1,3 @@
 name: Voca Cheng, Horrible Cop
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-url: "http://vocacheng.me"
